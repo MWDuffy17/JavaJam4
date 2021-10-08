@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html  lang="en"> <title> Title </title>{
+    
+}
+header {
+    padding-top: 5px ;
+    padding-bottom: 5px ;
+}
+
+main {
+    padding-left: 2em ;
+    padding-right: 2em ;
+    padding-bottom: 2em ;
+    display: block;
+}
+
+body {
+    background-image: url(fadedroad50.jpg);
+    background-attachment: fixed;
+    background-size: cover ;
+    font-family: "Tahoma", Arial, sans-serif;
+}
+
+#wrapper { background-color: #FEFAEB ;
+           margin-left: auto;
+           margin-right: auto;
+           min-width: 900px;
+           max-width: 1280px;
+           box-shadow: 5px 5px 5px ;
+        }
+
+h1 {
+    color:#8C3826;
+    background-color: #D2B48C;
+    text-align: center;
+}
+
+h1 {
+    font-size: 3em ;
+}
+h2 {
+    color:#8C3826;
+}
+h3 {
+    color:#8C3826;
+}
+h4 {
+    background-color: #D2B48C;
+    font-size: 1.2em;
+    padding-left: 0.5em;
+    padding-bottom: 0.25em;
+}
+dt {
+    color:#8C3826;
+}
+
+.details {
+    padding-left: 20% ;
+    padding-right: 20% ;
+}
+
+img {
+    padding-right: 1em ;
+}
+
+#homehero {
+    height: 300px;
+    background-size: cover;
+}
+
+nav {
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.5em;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+nav a { 
+    text-decoration: none; 
+}
+
+footer {
+    border-top: 2px solid ;
+    border-top-color: #8C3826 ;
+    padding: 1em ;
+    background-color: #D2B48C ;
+    text-align: center;
+    font-size: .60em;
+    font-style: italic ;
+}
